@@ -13,5 +13,13 @@
   },
   "login": {
     "token": "e5294644-8fba-4345-b7cf-abb16304ccfc"
+  },
+  "orders": [
+    { "id": 1, "title": "Order 1" },
+    { "id": 2, "title": "Order 2" }
+  ],
+  "userinfo":{
+    "name": "tom",
+    "full name": "tom lee"
   }
 }
